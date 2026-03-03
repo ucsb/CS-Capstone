@@ -1,0 +1,88 @@
+Round 1 testing:
+
+--------------------------------------------------
+2 The Constructors
+
+9,Max Hinson
+5,Jerry Peng
+6,Vladimir Adam
+3,Zach Sperske 
+1,Branton Horsley
+
+--------------------------------------------------
+4 Team BRX
+
+1,Kristen Morse
+6,Cesar Polanco
+5,Kevin Sheridan
+9,Andy Chou
+5,Sea Pong
+3,Andrew Thomas 
+
+--------------------------------------------------
+7 Foo-Tang Clan
+
+3,Andrew Cooney 
+6,Nick Cross
+9,JiCheng Huang
+5,Anthony Narsi
+9,Luke Buckland
+1,Jay Mutarevic
+
+
+--------------------------------------------------
+8 NIBBLE
+
+3,Scott Bishop
+5,Alex Scarlett
+9,Jhon Faghih-Nassiri
+1,Nick Krause
+3,Leif Dreizler 
+6,Ryan McGinley
+
+
+==================================================
+
+Round 2 testing:
+
+--------------------------------------------------
+1 Prograham Crackers
+
+7,Abraham Dela Cruz 
+8,Andy Duong
+4,Matthew Greenfield
+
+--------------------------------------------------
+3 Undefined_reference_to_teamName 
+
+4,Kenny Bier
+8,Mark Oparowski
+7,Joey Phommasone 
+2,Brittany Berin
+
+--------------------------------------------------
+5 Hex Pistols
+
+4,Peter Huang
+2,Kyle Jorgensen
+8,Tong Wu
+7,Zack Warburg
+
+--------------------------------------------------
+6 Null Terminators
+
+8,Jimmy Lee
+7,Chris Horuk 
+4,Anthony Coccia
+2,Alex Hamstra
+
+--------------------------------------------------
+9 Team Epsilon
+
+7,Raj Luhar
+2,Jared Roesch
+4,Aaron Dodson
+
+
+
+
